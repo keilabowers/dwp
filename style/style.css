@@ -1,0 +1,21 @@
+/* Keila Bowers */
+
+img {
+	max-width: 40%;
+	border-radius: 5px;
+}
+
+
+.tools {
+	color: #009900;
+	font-weight: bold;
+}
+
+.jumbotron {
+	color: white;
+	background: rgba(0,0,0,.7);
+}
+
+.panel-title {
+	background: rgba(0,0,0,.7);
+}
